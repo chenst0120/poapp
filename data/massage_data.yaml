@@ -1,0 +1,7 @@
+test_massage:
+  test_massage_001:
+    reps: 100
+    cont: "a"
+#  test_massage_002:
+#    reps: 210
+#    cont: "hallo"
